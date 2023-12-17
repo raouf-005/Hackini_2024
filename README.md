@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Pwn Challenge Solutions for Hackini2024, an exhilarating hacking event hosted at ESI Alger. This repository contains my solutions to the Pwn Challenges crafted by various authors.
+Welcome to the Pwn Challenge Solutions for Hackini2024, an exhilarating hacking event hosted at ESI Alger by the well known scientific club shellmates. This repository contains my solutions to the Pwn Challenges crafted by various authors.
 
 ## About Me
 
