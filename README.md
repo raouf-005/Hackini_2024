@@ -19,9 +19,9 @@ In this repository, you'll find my solutions to the Pwn Challenges presented at 
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/hackini2024-pwn-solutions.git
+   git clone https://github.com/your-username/Hackini_2K24_writeups.git
    1. Navigate to the project directory:
-     cd hackini2024/pwn
+     cd Hackini_2K24_writeups/pwn
    2. Explore the solutions and walkthroughs for each challenge.
 
 
